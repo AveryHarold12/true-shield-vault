@@ -87,10 +87,9 @@ The application supports both **Local Network** and **Sepolia Testnet**. You can
 
 ### 🔧 Network Configuration
 
-#### ✅ **Sepolia Testnet (Already Deployed)**
-- **Contract**: `0x6D333B72302A2A438a92d63aEefdAef3BDA49a33`
+#### ✅ **Sepolia Testnet**
 - **Chain ID**: 11155111
-- **Status**: Ready to use
+- **Status**: Ready for deployment
 
 #### 🏠 **Local Network (For Development)**
 - **Chain ID**: 31337
