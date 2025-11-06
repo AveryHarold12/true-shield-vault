@@ -11,6 +11,11 @@ A privacy-preserving game preference survey system built with FHEVM (Fully Homom
 - **Modern UI**: Built with React, TypeScript, and Tailwind CSS
 - **Rainbow Wallet Integration**: Seamless wallet connection with RainbowKit
 
+## 🚀 Live Demo & Resources
+
+- **Live Demo**: [https://true-shield.vercel.app/](https://true-shield.vercel.app/)
+- **Demo Video**: [true-shield.mp4](true-shield.mp4)
+
 ## 📋 Business Logic
 
 ### Game Preference Survey Flow
@@ -194,10 +199,9 @@ npx hardhat test test/GamePreferenceSurveyLocal.ts --network anvil
 
 ### Sepolia Testnet
 
-- **Contract Address**: `0x6D333B72302A2A438a92d63aEefdAef3BDA49a33`
 - **Network**: Sepolia
 - **Chain ID**: 11155111
-- **Explorer**: https://sepolia.etherscan.io/address/0x6D333B72302A2A438a92d63aEefdAef3BDA49a33
+- **Deploy**: Run `npm run deploy:sepolia` and verify on Etherscan
 
 ## 📂 Project Structure
 
@@ -342,11 +346,6 @@ npm run deploy:sepolia
 cd frontend
 npm run build
 # Deploy dist/ folder to Vercel, Netlify, or other hosting
-```
-
-**Live Demo**: [https://true-shield.vercel.app/](https://true-shield.vercel.app/)
-
-**Demo Video**: [true-shield.mp4](true-shield.mp4)
 
 ## 🤝 Contributing
 
@@ -374,8 +373,6 @@ For questions or issues, please open an issue on GitHub.
 
 ## 🔗 Links
 
-- **Live Demo**: Coming soon
-- **Contract (Sepolia)**: https://sepolia.etherscan.io/address/0x6D333B72302A2A438a92d63aEefdAef3BDA49a33
 - **Documentation**: See this README
 
 ---
