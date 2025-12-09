@@ -13,7 +13,7 @@ A privacy-preserving game preference survey system built with FHEVM (Fully Homom
 
 ## 🚀 Live Demo & Resources
 
-- **Live Demo**: [https://true-shield.vercel.app/](https://true-shield.vercel.app/)
+- **Live Demo**: [https://true-shield-vault-scawea.vercel.app/](https://true-shield-vault-scawea.vercel.app/)
 - **Demo Video**: [true-shield.mp4](true-shield.mp4)
 
 ## 📋 Business Logic
